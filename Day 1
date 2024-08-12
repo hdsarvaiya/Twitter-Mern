@@ -1,0 +1,39 @@
+Day - 1
+
+1) What is HTML ? 
+
+HTML stands for HyperText Markup Language. It is used to design web pages using a markup language. HTML is a combination of Hypertext and Markup language. Hypertext defines the link between the web pages. The markup language is used to define the text document within the tag which defines the structure of web pages. HTML is used to structure the website and is therefore used for Web Development.
+There are many types of markup languages are there but you can ignore them .
+XHTML is good to see one time rather .
+
+
+2) What is major Difference between HTML and HTML5 ?
+
+See in interview we don't have to answer in point just tell the major point 
+
+One of the major difference is HTML5 Support audio and video by <audio> and <video> tags.
+It is supported by all-new browsers like Firefox, Mozilla, Chrome, Safari, etc.
+New elements for web structure like nav, header, footer, etc.
+
+
+3) What is !DOCTYPE?
+
+A doctype or document-type declaration is an instruction that tells the web browser about the markup language in which the current page is written.
+
+ 
+4) How to redirect to a particular section of a page using HTML?
+  
+a -  Anchor tag is used to redirect
+
+
+5) What are the different types of lists in HTML?
+
+Unordered List: It will list the items using plain bullets.
+Ordered List: It will use different schemes of numbers to list your items.
+Definition List: It arranges your items in the same way as they are arranged in a dictionary.
+
+
+6) What is the difference between block and inline elements?
+
+Block elements occupy full line but inline element only take the space it need as per its width . 
+
